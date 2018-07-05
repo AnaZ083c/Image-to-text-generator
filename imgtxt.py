@@ -29,7 +29,7 @@ def generate(brush_color1, brush1, brush_color2, brush2, brush_color3, brush3, t
         niz_slika = ""
         for y in range(0, spinImage.size[1]):
 
-            # 1st canal ----------------------
+            # 1st channel ----------------------
             if px[x, y][0] < tresh:
                 niz_slika += brush_color1
 
@@ -39,7 +39,7 @@ def generate(brush_color1, brush1, brush_color2, brush2, brush_color3, brush3, t
             else:
                 niz_slika += presledek
 
-            # 2nd canal ----------------------
+            # 2nd channel ----------------------
             if px[x, y][1] < tresh:
                 niz_slika += brush_color2
 
@@ -49,7 +49,7 @@ def generate(brush_color1, brush1, brush_color2, brush2, brush_color3, brush3, t
             else:
                 niz_slika += presledek
 
-            # 3rd canal ----------------------
+            # 3rd channel ----------------------
             if px[x, y][2] < tresh:
                 niz_slika += brush_color3
 
