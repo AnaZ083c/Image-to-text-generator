@@ -12,4 +12,4 @@ Here on this picture above, you can see how an image was converted to an ASCII i
 ![Alt Text](https://github.com/AnaZ083c/Image-to-text-generator/blob/master/nature.jpg "The picture I used - nature.jpg")
 
 # Updates
-Of course there will come a time, where this program will get itself a brand new update, in which I will add some colors to those ASCII pictures.
+Of course there will come a time, when this program will get itself a brand new update, in which I will add some colors to those ASCII pictures.
