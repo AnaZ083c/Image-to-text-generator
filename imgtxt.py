@@ -1,3 +1,6 @@
+# Author: a GitHub user AnaZ083c
+# Date:   5. 07. 2018
+
 from PIL import Image, ImageOps
 import sys
 import os
