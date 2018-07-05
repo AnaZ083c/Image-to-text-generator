@@ -7,3 +7,4 @@ An image can be any type, but it is recommended if its width is at least 150 pix
 The ASCII image is then saved as picture.txt. It is recommended that if you run it with notepad to set the font size to 1 if the picture is bigger, otherwise you can set the font size to 3 or 6.
 
 ![Alt Text](https://raw.githubusercontent.com/AnaZ083c/Image-to-text-generator/master/git-screenshot.PNG "This is how a converted image looks like")
+Here on this picture above, you can see how an image was converted to an ASCII image. If you want to know, I used a nature.jpg to create this image.
