@@ -1,4 +1,4 @@
-# image to text generator
+# Image to text generator
 This program can be launched in command line by simply typing: imgtxt picture.png 100
 You have to be in the directory where imgtxt.py is located, otherwise it will not run.
 
