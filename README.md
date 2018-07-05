@@ -10,3 +10,6 @@ The ASCII image is then saved as picture.txt. It is recommended that if you run 
 Here on this picture above, you can see how an image was converted to an ASCII image. If you want to know, I used a nature.jpg to create this image.
 
 ![Alt Text](https://github.com/AnaZ083c/Image-to-text-generator/blob/master/nature.jpg "The picture I used - nature.jpg")
+
+# Updates
+Of course there will come a time, where this program will get itself a brand new update, in which I will add some colors to those ASCII pictures.
