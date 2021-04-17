@@ -1,5 +1,5 @@
 # Image to text generator
-This program can be launched within command line by simply typing: imgtxt picture.png 100
+This program can be launched within command line by simply typing: imgtxt.py picture.png 100
 You have to be in the directory where imgtxt.py is located, otherwise it will not run.
 
 An image can be any type, but it is recommended if its width is at least 150 pixels. The number that comes after the image argument is threshold which you need for the program to convert an image to an ASCII image.
